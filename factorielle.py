@@ -5,3 +5,7 @@ def fact(n):
     else:
         return n*fact(n-1)
 
+
+def e(p)
+	return p+1
+
